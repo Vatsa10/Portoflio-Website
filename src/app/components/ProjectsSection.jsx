@@ -7,18 +7,18 @@ import { motion, useInView } from "framer-motion";
 const projectsData = [
   {
     id: 1,
-    title: "React Portfolio Website",
-    description: "Project 1 description",
-    image: "/images/projects/1.png",
+    title: "Stonks",
+    description: "Visualizing and Forecasting Stocks",
+    image: "/images/projects/1.jpeg",
     tag: ["All", "Web"],
-    gitUrl: "/",
+    gitUrl: "https://github.com/Vatsa10/Stonk",
     previewUrl: "/",
   },
   {
     id: 2,
-    title: "Potography Portfolio Website",
-    description: "Project 2 description",
-    image: "/images/projects/2.png",
+    title: "Swift-Check-In",
+    description: "Event Management App",
+    image: "/images/projects/2.jpg",
     tag: ["All", "Web"],
     gitUrl: "/",
     previewUrl: "/",
@@ -26,7 +26,7 @@ const projectsData = [
   {
     id: 3,
     title: "E-commerce Application",
-    description: "Project 3 description",
+    description: "E Commerce Web App ",
     image: "/images/projects/3.png",
     tag: ["All", "Web"],
     gitUrl: "/",
@@ -35,10 +35,10 @@ const projectsData = [
   {
     id: 4,
     title: "Food Ordering Application",
-    description: "Project 4 description",
+    description: "Food Ordeing Web Application",
     image: "/images/projects/4.png",
     tag: ["All", "Mobile"],
-    gitUrl: "/",
+    gitUrl: "https://github.com/Vatsa10/Online-Food-Ordering-System",
     previewUrl: "/",
   },
   {
@@ -53,7 +53,7 @@ const projectsData = [
   {
     id: 6,
     title: "Full-stack Roadmap",
-    description: "Project 5 description",
+    description: "",
     image: "/images/projects/6.png",
     tag: ["All", "Web"],
     gitUrl: "/",
